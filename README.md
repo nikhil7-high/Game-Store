@@ -20,8 +20,6 @@ cd gamezoid
 python dev-server.py
 ```
 
-The server will start at http://localhost:8000 and automatically open in your default browser.
-
 ## Project Structure
 
 ```
